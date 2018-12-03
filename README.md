@@ -1,0 +1,2 @@
+# ngx-motor
+angular
